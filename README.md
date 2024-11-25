@@ -3,7 +3,7 @@ DEMOGRAPHIC ANALYSIS ON CUSTOMERS AND LOCATIONS
 
 INTRODUCTION TO THE DATA
 This report presents an analysis of a comprehensive gym dataset consisting of 300,000 records and 13 columns, offering detailed insights into gym usage patterns, workout preferences, and calorie expenditures across various locations. The dataset includes essential information such as location, gym type, check-in time, checkout time, workout type, calories burned, facilities, and age range. By examining this data, we aim to uncover key trends in gym attendance and identify the most popular workout types and facilities. The data set was cleaned to remove duplicates, errors, and inconsistencies after which a relationship was created and all sheets merged for a seamless analysis.
-OBJECTIVE
+# OBJECTIVE
 
 The primary objective of analyzing the gym's membership, subscription, and usage data is to derive actionable insights that can drive growth, optimize operations, and enhance member satisfaction. This analysis seeks to provide a comprehensive understanding of member demographics, preferences, facility usage, and financial impact, enabling the gym to make data-informed decisions that support both short-term improvements and long-term strategic goals. The detailed objectives of this analysis include:
 •	Understanding Member Demographics and Behaviours
